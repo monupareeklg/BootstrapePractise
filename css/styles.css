@@ -7,6 +7,10 @@
     margin-left: 110px;
 }
 
+.nav-color {
+    background-color: #16222A;
+}
+
 .profile-img {
     width: 100px;
 }
@@ -16,7 +20,7 @@
 }
 
 .shadow-div-1 {
-    border: 1px solid;
+    border: 1px solid #888888;
     box-shadow: 5px 10px 18px #888888;
 }
 
