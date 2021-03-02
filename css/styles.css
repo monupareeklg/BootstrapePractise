@@ -148,3 +148,11 @@ ul.social-network li {
 .social-network a {
   background-color: #F9F9F9;
 }
+
+/* FORM */
+
+.contact-form {
+  width: 40%;
+  margin-left: 120px;
+  margin-top: 20px;
+}
