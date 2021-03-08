@@ -172,3 +172,9 @@ ul.social-network li {
   display: inline-block;
   margin: 0 10px;
 }
+
+/* FAQ Section */
+.input-search {
+  left: 40%;
+  margin-top: 20px;
+}
