@@ -174,7 +174,8 @@ ul.social-network li {
 }
 
 /* FAQ Section */
-.input-search {
-  left: 40%;
-  margin-top: 20px;
+.search-input {
+  width: 40% !important;
+  margin-top: 10px;
+  margin-left: 25%;
 }
