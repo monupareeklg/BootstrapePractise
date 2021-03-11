@@ -34,28 +34,15 @@ div.content {
 }
 
 .social-img {
-  border-radius: 50%;
   width: 150px;
   height: 150px;
+  border-radius: 50%;
   margin: 10px;
 }
 
-@media screen and (max-width: 700px) {
-  .sidebar {
-    width: 100%;
-    height: auto;
-    position: relative;
-  }
-  .sidebar a {float: left;}
-  div.content {margin-left: 0;}
-}
-
-/* On screens that are less than 400px, display the bar vertically, instead of horizontally */
-@media screen and (max-width: 400px) {
-  .sidebar a {
-    text-align: center;
-    float: none;
-  }
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
 }
 
 .nav_a_p {
@@ -64,7 +51,6 @@ div.content {
 
 .nav-color {
   background-color: #16222A;
-  margin-left: 200px;
 }
 
 .profile-img {
